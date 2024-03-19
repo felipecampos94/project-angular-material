@@ -1,27 +1,45 @@
-# AngularMaterial
+**Projeto de Estudo do Angular Material**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+## Visão Geral
+Este projeto serve como um recurso de estudo para aprender os componentes do Angular Material. Angular Material é uma biblioteca de componentes de interface do usuário para aplicações Angular que implementa a especificação de Design Material do Google. O projeto fornece exemplos e demonstrações de vários componentes do Angular Material, auxiliando os desenvolvedores a entender o uso e implementação dentro de aplicações Angular.
 
-## Development server
+## Componentes do Angular Material Demonstrados
+O projeto inclui exemplos e demonstrações para os seguintes componentes do Angular Material:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Botões
+- Controles de Formulário
+- Diálogos
+- Ícones
+- Cartões
+- Navegação
+- Tabelas
+- Barras de Ferramentas
+- e mais...
 
-## Code scaffolding
+## Como Começar
+Para executar o projeto localmente, siga estes passos:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Clone o repositório:
+   ````bash
+   git clone https://github.com/seu-nome-de-usuário/angular-material-study.git
 
-## Build
+2. Navegue até o diretório do projeto:
+   ````bash
+   cd angular-material-study
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3. Instale as dependências:
+   ````bash
+   npm install
+   
+4. Execute o servidor de desenvolvimento:
+   ````bash
+   ng serve
 
-## Running unit tests
+5. Abra seu navegador e acesse `http://localhost:4200/` para visualizar o projeto.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Recursos
+- [Documentação do Angular Material](https://material.angular.io/)
+- [Documentação do Angular](https://angular.io/docs)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+  
